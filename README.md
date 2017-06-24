@@ -2,22 +2,22 @@ PartialsJS
 =========================
 PartialsJS is a JavaScript library for creating a partial layouts and master pages for almost web technologies with less a mount of efforts.
 
-###Partials Syntax
+### Partials Syntax
 header.html
-```
+```html
 <header>
 <h1>PartialsJS</h1>
 </header>
 <hr/>
 ```
 footer.html
-```
+```html
 <footer>
-<small>Copyrights ;&copy 2014</small>
+<small>Copyrights &copy; 2014</small>
 </footer>
 ```
 index.html
-```
+```html
 <html>
 <head>
 	<title>PartialsJS</title>
